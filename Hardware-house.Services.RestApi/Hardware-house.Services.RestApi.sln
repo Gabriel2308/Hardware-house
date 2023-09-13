@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Domain.Servi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E68E7B00-2100-414F-BB9F-49AD326A4CEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data.Entities", "..\Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj", "{DB369D28-7ABF-4240-BB6C-9560B59D6532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Infra.Data.Entities", "..\Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj", "{DB369D28-7ABF-4240-BB6C-9560B59D6532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data", "..\Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj", "{E622C00E-43C6-4AE9-B5DE-7727A481656E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Infra.Data", "..\Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj", "{E622C00E-43C6-4AE9-B5DE-7727A481656E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCutting", "{0D064135-EF03-4836-A128-328AB3578D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.CrossCutting.Mapper", "..\Hardware-house.Infra.CrossCutting.Mapper\Hardware-house.Infra.CrossCutting.Mapper.csproj", "{4D5EE585-9A15-47B6-820B-CEFE57B835B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,10 @@ Global
 		{E622C00E-43C6-4AE9-B5DE-7727A481656E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E622C00E-43C6-4AE9-B5DE-7727A481656E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E622C00E-43C6-4AE9-B5DE-7727A481656E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5EE585-9A15-47B6-820B-CEFE57B835B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5EE585-9A15-47B6-820B-CEFE57B835B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5EE585-9A15-47B6-820B-CEFE57B835B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5EE585-9A15-47B6-820B-CEFE57B835B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +66,8 @@ Global
 		{E68E7B00-2100-414F-BB9F-49AD326A4CEA} = {2C348043-7F91-458F-9A01-38964CD90609}
 		{DB369D28-7ABF-4240-BB6C-9560B59D6532} = {E68E7B00-2100-414F-BB9F-49AD326A4CEA}
 		{E622C00E-43C6-4AE9-B5DE-7727A481656E} = {E68E7B00-2100-414F-BB9F-49AD326A4CEA}
+		{0D064135-EF03-4836-A128-328AB3578D65} = {2C348043-7F91-458F-9A01-38964CD90609}
+		{4D5EE585-9A15-47B6-820B-CEFE57B835B8} = {0D064135-EF03-4836-A128-328AB3578D65}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F90CF4F1-230F-4B9E-A8FE-7437A3B4FB47}
