@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hardware-house.Services.RestApi.props" />
+</Project>

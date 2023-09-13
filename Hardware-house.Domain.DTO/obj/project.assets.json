@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\teste\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
       "projectName": "Hardware-house.Domain.DTO",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\teste\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\teste\\Hardware-house\\Hardware-house.Domain.DTO\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
