@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Services.Api", "Hardware-house.Services.Api\Hardware-house.Services.Api.csproj", "{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Domain.DTO", "Hardware-house.Domain.DTO\Hardware-house.Domain.DTO.csproj", "{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Domain.Services", "Hardware-house.Domain.Services\Hardware-house.Domain.Services.csproj", "{23692725-F286-4640-A5D9-CFB8545D666C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.CrossCutting.Mapper", "Hardware-house.Infra.CrossCutting.Mapper\Hardware-house.Infra.CrossCutting.Mapper.csproj", "{F0DACF29-9015-4B86-9D04-90FD0BC8A880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data", "Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj", "{FAE465E4-9ED5-4696-B372-F9566A93EBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data.Entities", "Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj", "{383E288F-F7AA-4F56-AB69-83D3C3C531BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23692725-F286-4640-A5D9-CFB8545D666C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23692725-F286-4640-A5D9-CFB8545D666C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23692725-F286-4640-A5D9-CFB8545D666C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23692725-F286-4640-A5D9-CFB8545D666C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DACF29-9015-4B86-9D04-90FD0BC8A880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DACF29-9015-4B86-9D04-90FD0BC8A880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DACF29-9015-4B86-9D04-90FD0BC8A880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DACF29-9015-4B86-9D04-90FD0BC8A880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE465E4-9ED5-4696-B372-F9566A93EBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE465E4-9ED5-4696-B372-F9566A93EBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE465E4-9ED5-4696-B372-F9566A93EBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE465E4-9ED5-4696-B372-F9566A93EBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

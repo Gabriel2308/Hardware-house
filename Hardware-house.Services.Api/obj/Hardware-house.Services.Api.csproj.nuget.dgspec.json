@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {}
+    "C:\\Users\\rcsantos1\\Documents\\UFS - 2023.1\\Banco de Dados\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {
+    "C:\\Users\\rcsantos1\\Documents\\UFS - 2023.1\\Banco de Dados\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rcsantos1\\Documents\\UFS - 2023.1\\Banco de Dados\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj",
         "projectName": "Hardware-house.Services.Api",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Services.Api\\obj\\",
+        "projectPath": "C:\\Users\\rcsantos1\\Documents\\UFS - 2023.1\\Banco de Dados\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj",
+        "packagesPath": "C:\\Users\\rcsantos1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rcsantos1\\Documents\\UFS - 2023.1\\Banco de Dados\\Hardware-house\\Hardware-house.Services.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rcsantos1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
