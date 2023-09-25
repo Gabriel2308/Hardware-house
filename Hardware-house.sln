@@ -3,25 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Services.Api", "Hardware-house.Services.Api\Hardware-house.Services.Api.csproj", "{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Services.Api", "Hardware-house.Services.Api\Hardware-house.Services.Api.csproj", "{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Domain.DTO", "Hardware-house.Domain.DTO\Hardware-house.Domain.DTO.csproj", "{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Domain.DTO", "Hardware-house.Domain.DTO\Hardware-house.Domain.DTO.csproj", "{A3E3C68C-98D1-445B-A991-9720BB6A0AA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Domain.Services", "Hardware-house.Domain.Services\Hardware-house.Domain.Services.csproj", "{23692725-F286-4640-A5D9-CFB8545D666C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Domain.Services", "Hardware-house.Domain.Services\Hardware-house.Domain.Services.csproj", "{23692725-F286-4640-A5D9-CFB8545D666C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.CrossCutting.Mapper", "Hardware-house.Infra.CrossCutting.Mapper\Hardware-house.Infra.CrossCutting.Mapper.csproj", "{F0DACF29-9015-4B86-9D04-90FD0BC8A880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Infra.CrossCutting.Mapper", "Hardware-house.Infra.CrossCutting.Mapper\Hardware-house.Infra.CrossCutting.Mapper.csproj", "{F0DACF29-9015-4B86-9D04-90FD0BC8A880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data", "Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj", "{FAE465E4-9ED5-4696-B372-F9566A93EBCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Infra.Data", "Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj", "{FAE465E4-9ED5-4696-B372-F9566A93EBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware-house.Infra.Data.Entities", "Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj", "{383E288F-F7AA-4F56-AB69-83D3C3C531BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hardware-house.Infra.Data.Entities", "Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj", "{383E288F-F7AA-4F56-AB69-83D3C3C531BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{9D7FC8DC-55BC-4BB4-9A3B-FE2F141ED847}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Services", "01 - Services", "{12A75EED-8C9D-4F64-A785-17AB7D2610F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{04F922B5-0F45-4867-BA27-6B83CA4F369D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -48,5 +51,19 @@ Global
 		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383E288F-F7AA-4F56-AB69-83D3C3C531BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4871A03-7C86-4CE6-8CD8-5DD842F957B6} = {12A75EED-8C9D-4F64-A785-17AB7D2610F8}
+		{A3E3C68C-98D1-445B-A991-9720BB6A0AA0} = {04F922B5-0F45-4867-BA27-6B83CA4F369D}
+		{23692725-F286-4640-A5D9-CFB8545D666C} = {04F922B5-0F45-4867-BA27-6B83CA4F369D}
+		{F0DACF29-9015-4B86-9D04-90FD0BC8A880} = {9D7FC8DC-55BC-4BB4-9A3B-FE2F141ED847}
+		{FAE465E4-9ED5-4696-B372-F9566A93EBCF} = {9D7FC8DC-55BC-4BB4-9A3B-FE2F141ED847}
+		{383E288F-F7AA-4F56-AB69-83D3C3C531BD} = {9D7FC8DC-55BC-4BB4-9A3B-FE2F141ED847}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5010EC-5F82-48D0-9CEA-18F51AF9AC06}
 	EndGlobalSection
 EndGlobal
