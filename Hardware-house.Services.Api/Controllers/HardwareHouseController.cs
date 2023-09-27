@@ -1,3 +1,4 @@
+using Hardware_house.Domain.DTO;
 using Hardware_house.Domain.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,11 +16,42 @@ namespace Hardware_house.Services.Api.Controllers
         }
 
         [HttpGet("GetUserByCpf")]
-        public object Get(string cpf)
+        public UsuarioDTO Get(string cpf)
         {
-            ConsultarUsuario user = new ConsultarUsuario();
+            UsuarioDomain user = new UsuarioDomain();
 
             return user.ConsultarUsuarioByCpf(cpf);
+        }
+        [HttpPost("PostNewUser")]
+
+        public object PostUser(UsuarioDTO userDto)
+        {
+            UsuarioDomain user = new UsuarioDomain();
+
+            return user.CriarNovoUsuario(userDto);
+        }
+        [HttpDelete("DeleteUser")]
+        public object Delete(string cpf)
+        {
+            UsuarioDomain user = new UsuarioDomain();
+
+            return user.DeletarUsuario(cpf);
+        }
+
+        [HttpGet("GetFornecedorBtId")]
+        public Object GetFornecedor(int id)
+        {
+            FornecedoresDomain fornecedores= new FornecedoresDomain();
+
+            return fornecedores.ConsultarFornecedorById(id);
+        }
+
+        [HttpPost("PostNewFornecedor")]
+        public Object PostFornecedor(FornecedoresDTO fornecedoresDTO)
+        {
+            FornecedoresDomain fornecedores = new FornecedoresDomain();
+
+            return fornecedores.CriarNovoFornecedor(fornecedoresDTO);
         }
     }
 }
