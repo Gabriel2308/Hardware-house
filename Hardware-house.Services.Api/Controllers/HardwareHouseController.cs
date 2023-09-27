@@ -53,5 +53,21 @@ namespace Hardware_house.Services.Api.Controllers
 
             return fornecedores.CriarNovoFornecedor(fornecedoresDTO);
         }
+
+        [HttpPut("UpdateFornecedor")]
+        public Object UpdateFornecedor(int id, FornecedoresDTO fornecedoresDTO)
+        {
+            FornecedoresDomain fornecedores = new FornecedoresDomain();
+
+            return fornecedores.AtualizarFornecedor(id, fornecedoresDTO);
+        }
+
+        [HttpDelete("DeleteFornecedor")]
+        public Object DeleteFornecedor(int id)
+        {
+            FornecedoresDomain fornecedores = new FornecedoresDomain();
+
+            return fornecedores.DeletarFornecedor(id);
+        }
     }
 }

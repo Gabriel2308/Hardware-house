@@ -27,5 +27,20 @@ namespace Hardware_house.Domain.Services
 
             return fornecedor.CreateNewFornecedor(mapper.DTOToFornecedores(fornecedoresDTO));
         }
+
+        public Object DeletarFornecedor(int id)
+        {
+            FornecedoresRepository forncedor = new FornecedoresRepository();
+
+            return forncedor.DeleteFornecedor(id);
+        }
+
+        public Object AtualizarFornecedor(int id, FornecedoresDTO fornecedoresDTO)
+        {
+            FornecedoresRepository fornecedor = new FornecedoresRepository();
+            FornecedoresMapper mapper = new FornecedoresMapper();
+
+            return fornecedor.UpdateFornecedor(id, mapper.DTOToFornecedores(fornecedoresDTO));
+        }
     }
 }
