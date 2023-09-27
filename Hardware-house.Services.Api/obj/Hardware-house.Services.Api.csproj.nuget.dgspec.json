@@ -4,6 +4,308 @@
     "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {}
   },
   "projects": {
+    "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
+        "projectName": "Hardware-house.Domain.DTO",
+        "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj",
+        "packagesPath": "C:\\Users\\dudui\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\Hardware-house.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\Hardware-house.Domain.Services.csproj",
+        "projectName": "Hardware-house.Domain.Services",
+        "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\Hardware-house.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\dudui\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj"
+              },
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj"
+              },
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\Hardware-house.Infra.Data.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\Hardware-house.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
+        "projectName": "Hardware-house.Infra.CrossCutting.Mapper",
+        "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
+        "packagesPath": "C:\\Users\\dudui\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj"
+              },
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\Hardware-house.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\Hardware-house.Infra.Data.csproj",
+        "projectName": "Hardware-house.Infra.Data",
+        "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\Hardware-house.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\dudui\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
+        "projectName": "Hardware-house.Infra.Data.Entities",
+        "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\dudui\\.nuget\\packages\\",
+        "outputPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Services.Api\\Hardware-house.Services.Api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +330,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\Hardware-house.Domain.Services.csproj": {
+                "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.Services\\Hardware-house.Domain.Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

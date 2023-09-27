@@ -30,3 +30,14 @@ C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-h
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\ref\Hardware-house.Services.Api.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.pdb

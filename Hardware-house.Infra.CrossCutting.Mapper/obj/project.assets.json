@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Hardware-house.Domain.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Hardware-house.Domain.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hardware-house.Domain.DTO.dll": {}
+        }
+      },
+      "Hardware-house.Infra.Data.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Hardware-house.Infra.Data.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hardware-house.Infra.Data.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Hardware-house.Domain.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Hardware-house.Domain.DTO/Hardware-house.Domain.DTO.csproj",
+      "msbuildProject": "../Hardware-house.Domain.DTO/Hardware-house.Domain.DTO.csproj"
+    },
+    "Hardware-house.Infra.Data.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Hardware-house.Infra.Entities/Hardware-house.Infra.Data.Entities.csproj",
+      "msbuildProject": "../Hardware-house.Infra.Entities/Hardware-house.Infra.Data.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Hardware-house.Domain.DTO >= 1.0.0",
+      "Hardware-house.Infra.Data.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dudui\\.nuget\\packages\\": {}
@@ -33,7 +68,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
+              "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj"
+            },
+            "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+              "projectPath": "G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -64,5 +106,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache G:\\Meu Drive\\Acadêmico UFS\\2023.1\\Bancos de dados\\repositories\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

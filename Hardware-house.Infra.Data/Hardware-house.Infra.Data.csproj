@@ -8,8 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DbConfig\" />
-    <Folder Include="Repositories\" />
+    <PackageReference Include="Npgsql" Version="7.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj" />
   </ItemGroup>
 
 </Project>

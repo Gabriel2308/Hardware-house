@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hardware-house.Domain.DTO\Hardware-house.Domain.DTO.csproj" />
+    <ProjectReference Include="..\Hardware-house.Infra.CrossCutting.Mapper\Hardware-house.Infra.CrossCutting.Mapper.csproj" />
+    <ProjectReference Include="..\Hardware-house.Infra.Data\Hardware-house.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

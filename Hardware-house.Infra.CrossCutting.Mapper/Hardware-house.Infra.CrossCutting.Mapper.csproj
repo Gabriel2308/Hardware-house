@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hardware-house.Domain.DTO\Hardware-house.Domain.DTO.csproj" />
+    <ProjectReference Include="..\Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
