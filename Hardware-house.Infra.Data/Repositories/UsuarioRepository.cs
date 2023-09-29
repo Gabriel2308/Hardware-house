@@ -30,10 +30,10 @@ namespace Hardware_house.Infra.Data.Repositories
                 if(dataReader.HasRows)
                 {
                     dataReader.Read();
-                    usuario.cpf = Convert.ToString(dataReader["cpf"]);
-                    usuario.primeiro_nome = Convert.ToString(dataReader["primeiro_nome"]);
-                    usuario.sobrenome = Convert.ToString(dataReader["sobrenome"]);
-                    usuario.data_nasc = Convert.ToString(dataReader["data_nasc"]);
+                    usuario.Cpf = Convert.ToString(dataReader["cpf"]);
+                    usuario.PrimeiroNome = Convert.ToString(dataReader["primeiro_nome"]);
+                    usuario.Sobrenome = Convert.ToString(dataReader["sobrenome"]);
+                    usuario.DataNasc = Convert.ToDateTime(dataReader["data_nasc"]);
                 }
 
             }
@@ -59,10 +59,10 @@ namespace Hardware_house.Infra.Data.Repositories
                 command.CommandText = $"INSERT INTO mydb.usuario (cpf, primeiro_nome, sobrenome, data_nasc)" +
                                         $"VALUES (@cpf, @primeiro_nome, @sobrenome, @data_nasc);";
 
-                command.Parameters.AddWithValue("@cpf", usuario.cpf);
-                command.Parameters.AddWithValue("@primeiro_nome", usuario.primeiro_nome);
-                command.Parameters.AddWithValue("@sobrenome", usuario.sobrenome);
-                command.Parameters.AddWithValue("@data_nasc", Convert.ToDateTime(usuario.data_nasc));
+                command.Parameters.AddWithValue("@cpf", usuario.Cpf);
+                command.Parameters.AddWithValue("@primeiro_nome", usuario.PrimeiroNome);
+                command.Parameters.AddWithValue("@sobrenome", usuario.Sobrenome);
+                command.Parameters.AddWithValue("@data_nasc", Convert.ToDateTime(usuario.DataNasc));
 
                 command.Connection = conn;
                 conn.Open();

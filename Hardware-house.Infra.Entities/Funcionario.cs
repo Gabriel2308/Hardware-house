@@ -1,13 +1,22 @@
-﻿namespace Hardware_house.Infra.Entities
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace Hardware_house.Infra.Entities
 {
-    public class Funcionario
+    public partial class Funcionario
     {
-        public int idtipo { get; set; }
-        public string matricula { get; set; }
-        public int idtipofuncionario { get; set; }
-        public DateTime data_admissao { get; set; }
-        public DateTime data_demissao { get; set; }
-        public string status { get; set; }
-        public string usuario_cpf { get; set; }
+        public string Matricula { get; set; }
+        public int Idtipo { get; set; }
+        public DateTime DataAdmissao { get; set; }
+        public DateTime? DataDemissao { get; set; }
+        public string Status { get; set; }
+        public string UsuarioCpf { get; set; }
+        public int Idtipofuncionario { get; set; }
+
+        public virtual Tipofuncionario IdtipofuncionarioNavigation { get; set; }
+        public virtual Usuario UsuarioCpfNavigation { get; set; }
+        public virtual Funcionariopossui Funcionariopossui { get; set; }
     }
 }

@@ -41,3 +41,46 @@ C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-h
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.DTO.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\appsettings.Development.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\appsettings.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Services.Api.exe
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Services.Api.deps.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Services.Api.runtimeconfig.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Services.Api.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Services.Api.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Npgsql.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.DTO.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.Services.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.Services.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Domain.DTO.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.CrossCutting.Mapper.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.csproj.AssemblyReference.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.AssemblyInfoInputs.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.AssemblyInfo.cs
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.MvcApplicationPartsAssemblyInfo.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets\msbuild.Hardware-house.Services.Api.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Hardware-house.Services.Api.props
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hardware-house.Services.Api.props
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hardware-house.Services.Api.props
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets.build.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\staticwebassets.development.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\scopedcss\bundle\Hardware-house.Services.Api.styles.css
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.csproj.CopyComplete
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\refint\Hardware-house.Services.Api.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\Hardware-house.Services.Api.genruntimeconfig.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Services.Api\obj\Debug\net6.0\ref\Hardware-house.Services.Api.dll

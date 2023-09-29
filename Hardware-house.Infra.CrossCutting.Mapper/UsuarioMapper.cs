@@ -9,10 +9,10 @@ namespace Hardware_house.Infra.CrossCutting.Mapper
         {
             UsuarioDTO userDto= new UsuarioDTO();
 
-            userDto.cpf = user.cpf;
-            userDto.nome = user.primeiro_nome;
-            userDto.sobrenome = user.sobrenome;
-            userDto.dataNascimento = user.data_nasc;
+            userDto.cpf = user.Cpf;
+            userDto.nome = user.PrimeiroNome;
+            userDto.sobrenome = user.Sobrenome;
+            userDto.dataNascimento = user.DataNasc;
 
             return userDto;
         }
@@ -21,10 +21,10 @@ namespace Hardware_house.Infra.CrossCutting.Mapper
         {
             Usuario user = new Usuario();
 
-            user.cpf = userDto.cpf;
-            user.primeiro_nome = userDto.nome;
-            user.sobrenome = userDto.sobrenome;
-            user.data_nasc = userDto.dataNascimento;
+            user.Cpf = userDto.cpf;
+            user.PrimeiroNome = userDto.nome;
+            user.Sobrenome = userDto.sobrenome;
+            user.DataNasc = userDto.dataNascimento;
 
             return user;
         }

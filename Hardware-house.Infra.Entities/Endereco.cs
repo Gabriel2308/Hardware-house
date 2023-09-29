@@ -1,20 +1,20 @@
-﻿namespace Hardware_house.Infra.Entities
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace Hardware_house.Infra.Entities
 {
-    public class Endereco
+    public partial class Endereco
     {
-        public Endereco()
-        {
-            Moras = new HashSet<Mora>();
-        }
-
-        public int IdEndereco { get; set; }
         public string Cep { get; set; }
-        public string Rua { get; set; }
+        public string Logradouro { get; set; }
         public string Bairro { get; set; }
-        public string Cidade { get; set; }
-        public string Estado { get; set; }
-        public string Pais { get; set; }
+        public string Municipio { get; set; }
+        public string Uf { get; set; }
+        public string Numero { get; set; }
+        public string UsuarioCpf { get; set; }
 
-        public virtual ICollection<Mora> Moras { get; set; }
+        public virtual Usuario UsuarioCpfNavigation { get; set; }
     }
 }
