@@ -13,3 +13,18 @@ C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-h
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\refint\Hardware-house.Infra.Data.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\ref\Hardware-house.Infra.Data.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\bin\Debug\net6.0\Hardware-house.Infra.Data.deps.json
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\bin\Debug\net6.0\Hardware-house.Infra.Data.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\bin\Debug\net6.0\Hardware-house.Infra.Data.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.csproj.AssemblyReference.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.AssemblyInfoInputs.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.AssemblyInfo.cs
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.csproj.CopyComplete
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\refint\Hardware-house.Infra.Data.dll
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\Hardware-house.Infra.Data.pdb
+G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\Hardware-house.Infra.Data\obj\Debug\net6.0\ref\Hardware-house.Infra.Data.dll

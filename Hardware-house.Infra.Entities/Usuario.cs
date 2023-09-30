@@ -1,12 +1,21 @@
 ﻿namespace Hardware_house.Infra.Entities
 {
-    public class Usuario
+    public partial class Usuario
     {
+        public Usuario()
+        {
+            Funcionarios = new HashSet<Funcionario>();
+            UsuarioTelefones = new HashSet<UsuarioTelefone>();
+        }
 
-        public string cpf { get; set; }
-        public string primeiro_nome { get; set; }
-        public string sobrenome { get; set; }
-        public string data_nasc { get; set; }
+        public string Cpf { get; set; }
+        public string PrimeiroNome { get; set; }
+        public string Sobrenome { get; set; }
+        public DateTime DataNasc { get; set; }
 
+        public virtual Cliente Cliente { get; set; }
+        public virtual Endereco Endereco { get; set; }
+        public virtual ICollection<Funcionario> Funcionarios { get; set; }
+        public virtual ICollection<UsuarioTelefone> UsuarioTelefones { get; set; }
     }
 }
