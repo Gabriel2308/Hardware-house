@@ -69,5 +69,35 @@ namespace Hardware_house.Services.Api.Controllers
 
             return fornecedores.DeletarFornecedor(id);
         }
+
+        [HttpGet("ConsularServicoById")]
+        public ServicoDTO ConsultarServico(int id)
+        {
+            ServicoDomain servico = new ServicoDomain();
+
+            return servico.ConsultarServicoById(id);
+        }
+
+        [HttpPost("CriarNovoServico")]
+        public Object ConsultarServico(ServicoDTO servicoDto)
+        {
+            ServicoDomain servico = new ServicoDomain();
+
+            return servico.CriarNovoServico(servicoDto);
+        }
+        [HttpPut("EditarServico")]
+        public Object EditarServico(ServicoDTO servicoDto, int id)
+        {
+            ServicoDomain servico = new ServicoDomain();
+
+            return servico.AtualizarServico(servicoDto, id);
+        }
+        [HttpDelete("DeletarServico")]
+        public Object ApagarServico(int id)
+        {
+            ServicoDomain servico = new ServicoDomain();
+
+            return servico.DeletarServico(id);
+        }
     }
 }

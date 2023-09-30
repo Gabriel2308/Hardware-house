@@ -7,10 +7,10 @@ namespace Hardware_house.Infra.Entities
 {
     public partial class Servico
     {
-        public Servico()
-        {
-            Items = new HashSet<Item>();
-        }
+        //public Servico()
+        //{
+        //    Items = new HashSet<Item>();
+        //}
 
         public int Id { get; set; }
         public string Nome { get; set; }
