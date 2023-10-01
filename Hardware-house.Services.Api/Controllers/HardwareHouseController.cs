@@ -15,29 +15,6 @@ namespace Hardware_house.Services.Api.Controllers
             _logger = logger;
         }
 
-        [HttpGet("GetUserByCpf")]
-        public UsuarioDTO Get(string cpf)
-        {
-            UsuarioDomain user = new UsuarioDomain();
-
-            return user.ConsultarUsuarioByCpf(cpf);
-        }
-        [HttpPost("PostNewUser")]
-
-        public object PostUser(UsuarioDTO userDto)
-        {
-            UsuarioDomain user = new UsuarioDomain();
-
-            return user.CriarNovoUsuario(userDto);
-        }
-        [HttpDelete("DeleteUser")]
-        public object Delete(string cpf)
-        {
-            UsuarioDomain user = new UsuarioDomain();
-
-            return user.DeletarUsuario(cpf);
-        }
-
         [HttpGet("GetFornecedorBtId")]
         public Object GetFornecedor(int id)
         {
@@ -120,6 +97,13 @@ namespace Hardware_house.Services.Api.Controllers
             ItemDomain item = new ItemDomain();
 
             return item.DeletarItem(id);
+        }
+        [HttpPut("AtualizarItem")]
+        public Object Atualizaritem(int id, ItemDTO itemDto)
+        {
+            ItemDomain item = new ItemDomain();
+
+            return item.EditarItem(id, itemDto);
         }
     }
 }

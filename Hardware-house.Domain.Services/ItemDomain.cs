@@ -1,6 +1,7 @@
 ﻿using Hardware_house.Domain.DTO;
 using Hardware_house.Infra.CrossCutting.Mapper;
 using Hardware_house.Infra.Data.Repositories;
+using Hardware_house.Infra.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,13 @@ namespace Hardware_house.Domain.Services
             ItemRepository item = new ItemRepository();
 
             return item.DeleteItem(id);
+        }
+        public Object EditarItem(int id, ItemDTO itemDTO)
+        {
+            ItemRepository item = new ItemRepository();
+            ItemMapper mapper = new ItemMapper();
+
+            return item.UppdateItem(id, mapper.DtoToItem(itemDTO));
         }
     }
 }

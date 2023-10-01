@@ -98,11 +98,11 @@ namespace Hardware_house.Infra.Data.Repositories
 
                 if (command.ExecuteNonQuery() > 0)
                 {
-                    return "Fornecedor deletado com sucesso";
+                    return "Item deletado com sucesso";
                 }
                 else
                 {
-                    return "Erro ao deletar Fornecedor";
+                    return "Erro ao deletar Item";
                 }
             }
 
@@ -113,6 +113,43 @@ namespace Hardware_house.Infra.Data.Repositories
             finally 
             { 
                 CloseConnection(); 
+            }
+        }
+        public Object UppdateItem(int produtoId, Item item)
+        {
+            try
+            {
+                NpgsqlConnection conn = new NpgsqlConnection("Server=database-rueslei.ccwg9x4j76qa.us-east-1.rds.amazonaws.com;Port=5432;Database=postgres;User Id=professor;Password=professor;");
+                NpgsqlCommand command = new NpgsqlCommand();
+
+                command.CommandText = $"UPDATE mydb.item " +
+                                       $"SET id_servicos = @id_servicos, carrinho_id = @carrinho_id, produtos_id = @produtos_id " +
+                                       $"WHERE produtos_id = @id";
+
+                command.Parameters.AddWithValue("@id", produtoId);
+                command.Parameters.AddWithValue("@id_servicos", item.IdServicos);
+                command.Parameters.AddWithValue("@carrinho_id", item.CarrinhoId);
+                command.Parameters.AddWithValue("@produtos_id", item.ProdutosId);
+
+                command.Connection = conn;
+                conn.Open();
+
+                if (command.ExecuteNonQuery() > 0)
+                {
+                    return "Item atualizado com sucesso";
+                }
+                else
+                {
+                    return "Erro ao atualizar Item";
+                }
+            }
+            catch(Exception ex) 
+            {
+                throw ex; 
+            }
+            finally
+            {
+                CloseConnection();
             }
         }
     }
