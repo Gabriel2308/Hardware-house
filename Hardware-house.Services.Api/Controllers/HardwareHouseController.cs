@@ -99,5 +99,27 @@ namespace Hardware_house.Services.Api.Controllers
 
             return servico.DeletarServico(id);
         }
+
+        [HttpGet("ConsultarItemById")]
+        public ItemDTO ConsultarItem(int id)
+        {
+            ItemDomain item = new ItemDomain();
+
+            return item.ConsultarItemById(id);
+        }
+        [HttpPost("CriarNovoItem")]
+        public Object CriarItem(ItemDTO itemDTO)
+        {
+            ItemDomain item = new ItemDomain();
+
+            return item.CriarNovoItem(itemDTO);
+        }
+        [HttpDelete("DeletarItem")]
+        public Object DeletarItem(int id)
+        {
+            ItemDomain item = new ItemDomain();
+
+            return item.DeletarItem(id);
+        }
     }
 }

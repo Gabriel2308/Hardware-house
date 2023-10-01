@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hardware-house.Infra.Entities\Hardware-house.Infra.Data.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
