@@ -25,3 +25,18 @@ G:\Meu Drive\Acadêmico UFS\2023.1\Bancos de dados\repositories\Hardware-house\H
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.dll
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Domain.DTO.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Domain.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Domain.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\bin\Debug\net6.0\Hardware-house.Infra.Data.Entities.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\refint\Hardware-house.Domain.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\Hardware-house.Domain.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Main - Hardware-house\Hardware-house\Hardware-house.Domain.DTO\obj\Debug\net6.0\ref\Hardware-house.Domain.DTO.dll

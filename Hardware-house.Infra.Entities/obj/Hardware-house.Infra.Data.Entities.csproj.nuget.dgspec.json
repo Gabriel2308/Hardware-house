@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
         "projectName": "Hardware-house.Infra.Data.Entities",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

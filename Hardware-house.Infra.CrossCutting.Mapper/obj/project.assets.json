@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
       "projectName": "Hardware-house.Infra.CrossCutting.Mapper",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\Hardware-house.Infra.CrossCutting.Mapper.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.CrossCutting.Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -782,11 +782,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Domain.DTO\\Hardware-house.Domain.DTO.csproj"
             },
-            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
-              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Repos\\repositorios pessoais\\Main - Hardware-house\\Hardware-house\\Hardware-house.Infra.Entities\\Hardware-house.Infra.Data.Entities.csproj"
             }
           }
         }
