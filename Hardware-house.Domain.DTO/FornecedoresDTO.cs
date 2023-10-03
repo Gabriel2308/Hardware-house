@@ -8,6 +8,7 @@ namespace Hardware_house.Domain.DTO
 {
     public class FornecedoresDTO
     {
+        public int id { get; set; }
         public string email { get; set; }
         public string telefone { get; set; }
         public string uf { get; set; }

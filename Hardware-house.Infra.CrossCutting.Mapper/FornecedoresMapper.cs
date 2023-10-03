@@ -14,6 +14,7 @@ namespace Hardware_house.Infra.CrossCutting.Mapper
         {
             FornecedoresDTO fornecedorDTO = new FornecedoresDTO();
 
+            fornecedorDTO.id= fornecedor.id;
             fornecedorDTO.email = fornecedor.email;
             fornecedorDTO.uf = fornecedor.uf;
             fornecedorDTO.telefone = fornecedor.telefone;
@@ -29,6 +30,7 @@ namespace Hardware_house.Infra.CrossCutting.Mapper
         {
             Fornecedor fornecedor = new Fornecedor();
 
+            fornecedor.id = fornecedoresDTO.id;
             fornecedor.email = fornecedoresDTO.email;
             fornecedor.uf = fornecedoresDTO.uf;
             fornecedor.cnpj = fornecedoresDTO.cnpj;

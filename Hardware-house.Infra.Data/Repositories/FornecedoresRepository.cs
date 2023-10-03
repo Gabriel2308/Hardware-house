@@ -63,7 +63,7 @@ namespace Hardware_house.Infra.Data.Repositories
                 command.CommandText = $"INSERT INTO mydb.fornecedores (id, email, telefone, uf, cidade, cnpj, nomeempresa)" +
                                         $"VALUES (@id, @email, @telefone, @uf, @cidade, @cnpj, @nomeempresa);";
 
-                command.Parameters.AddWithValue("@id", 3);
+                command.Parameters.AddWithValue("@id", fornecedor.id);
                 command.Parameters.AddWithValue("@email", fornecedor.email);
                 command.Parameters.AddWithValue("@telefone", fornecedor.telefone);
                 command.Parameters.AddWithValue("@uf", fornecedor.uf);
